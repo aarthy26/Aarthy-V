@@ -1,0 +1,7 @@
+E:\avelayut\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\avelayut\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\avelayut\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\avelayut\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\avelayut\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\avelayut\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
