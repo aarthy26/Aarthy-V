@@ -1,0 +1,10 @@
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csprojAssemblyReference.cache
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.Form1.resources
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.Properties.Resources.resources
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.GenerateResource.cache
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+E:\avelayut\source\repos\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

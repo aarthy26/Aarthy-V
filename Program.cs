@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Calculation_demo
+namespace AnonymousMethod
 {
     static class Program
     {
