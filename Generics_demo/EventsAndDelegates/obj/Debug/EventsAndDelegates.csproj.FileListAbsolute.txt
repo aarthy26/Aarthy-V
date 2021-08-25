@@ -1,7 +1,0 @@
-E:\avelayut\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
-E:\avelayut\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
-E:\avelayut\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
-E:\avelayut\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
-E:\avelayut\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
-E:\avelayut\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
-E:\avelayut\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
