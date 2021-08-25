@@ -1,6 +1,0 @@
-E:\avelayut\source\repos\polymorphism_demo\polymorphism_demo\bin\Debug\polymorphism_demo.exe.config
-E:\avelayut\source\repos\polymorphism_demo\polymorphism_demo\bin\Debug\polymorphism_demo.exe
-E:\avelayut\source\repos\polymorphism_demo\polymorphism_demo\bin\Debug\polymorphism_demo.pdb
-E:\avelayut\source\repos\polymorphism_demo\polymorphism_demo\obj\Debug\polymorphism_demo.csproj.CoreCompileInputs.cache
-E:\avelayut\source\repos\polymorphism_demo\polymorphism_demo\obj\Debug\polymorphism_demo.exe
-E:\avelayut\source\repos\polymorphism_demo\polymorphism_demo\obj\Debug\polymorphism_demo.pdb
