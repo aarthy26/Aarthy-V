@@ -1,0 +1,10 @@
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\bin\Debug\Calculation_demo.exe.config
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\bin\Debug\Calculation_demo.exe
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\bin\Debug\Calculation_demo.pdb
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\obj\Debug\Calculation_demo.csproj.AssemblyReference.cache
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\obj\Debug\Calculation_demo.Form1.resources
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\obj\Debug\Calculation_demo.Properties.Resources.resources
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\obj\Debug\Calculation_demo.csproj.GenerateResource.cache
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\obj\Debug\Calculation_demo.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\obj\Debug\Calculation_demo.exe
+E:\avelayut\source\repos\Calculation_demo\Calculation_demo\obj\Debug\Calculation_demo.pdb
