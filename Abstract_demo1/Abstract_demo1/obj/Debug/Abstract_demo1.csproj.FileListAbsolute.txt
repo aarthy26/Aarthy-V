@@ -1,7 +1,0 @@
-E:\avelayut\source\repos\Abstract_demo1\Abstract_demo1\bin\Debug\Abstract_demo1.exe.config
-E:\avelayut\source\repos\Abstract_demo1\Abstract_demo1\bin\Debug\Abstract_demo1.exe
-E:\avelayut\source\repos\Abstract_demo1\Abstract_demo1\bin\Debug\Abstract_demo1.pdb
-E:\avelayut\source\repos\Abstract_demo1\Abstract_demo1\obj\Debug\Abstract_demo1.csprojAssemblyReference.cache
-E:\avelayut\source\repos\Abstract_demo1\Abstract_demo1\obj\Debug\Abstract_demo1.csproj.CoreCompileInputs.cache
-E:\avelayut\source\repos\Abstract_demo1\Abstract_demo1\obj\Debug\Abstract_demo1.exe
-E:\avelayut\source\repos\Abstract_demo1\Abstract_demo1\obj\Debug\Abstract_demo1.pdb
