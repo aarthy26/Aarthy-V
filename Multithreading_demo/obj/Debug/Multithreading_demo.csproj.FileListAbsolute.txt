@@ -1,0 +1,7 @@
+E:\avelayut\source\repos\Multithreading_demo\Multithreading_demo\bin\Debug\Multithreading_demo.exe.config
+E:\avelayut\source\repos\Multithreading_demo\Multithreading_demo\bin\Debug\Multithreading_demo.exe
+E:\avelayut\source\repos\Multithreading_demo\Multithreading_demo\bin\Debug\Multithreading_demo.pdb
+E:\avelayut\source\repos\Multithreading_demo\Multithreading_demo\obj\Debug\Multithreading_demo.csprojAssemblyReference.cache
+E:\avelayut\source\repos\Multithreading_demo\Multithreading_demo\obj\Debug\Multithreading_demo.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Multithreading_demo\Multithreading_demo\obj\Debug\Multithreading_demo.exe
+E:\avelayut\source\repos\Multithreading_demo\Multithreading_demo\obj\Debug\Multithreading_demo.pdb
