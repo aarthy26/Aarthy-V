@@ -1,0 +1,7 @@
+E:\avelayut\source\repos\Abstract_demo\Abstract_demo\obj\Debug\Abstract_demo.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Abstract_demo\Abstract_demo\bin\Debug\Abstract_demo.exe.config
+E:\avelayut\source\repos\Abstract_demo\Abstract_demo\bin\Debug\Abstract_demo.exe
+E:\avelayut\source\repos\Abstract_demo\Abstract_demo\bin\Debug\Abstract_demo.pdb
+E:\avelayut\source\repos\Abstract_demo\Abstract_demo\obj\Debug\Abstract_demo.exe
+E:\avelayut\source\repos\Abstract_demo\Abstract_demo\obj\Debug\Abstract_demo.pdb
+E:\avelayut\source\repos\Abstract_demo\Abstract_demo\obj\Debug\Abstract_demo.csproj.AssemblyReference.cache
