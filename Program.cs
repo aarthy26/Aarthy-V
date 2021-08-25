@@ -1,19 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
-namespace MulticastingDelegatesDemo
+namespace Demo_serialization_xml
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            Rectangle rect = new Rectangle();
-            rect.GetArea(2.4, 3.6);
-            rect.GetPerimeter(0.3, 1.2);
-            Console.ReadLine();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }

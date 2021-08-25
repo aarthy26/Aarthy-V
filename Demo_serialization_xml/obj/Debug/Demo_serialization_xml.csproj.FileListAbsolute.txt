@@ -1,0 +1,10 @@
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\bin\Debug\Demo_serialization_xml.exe.config
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\bin\Debug\Demo_serialization_xml.exe
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\bin\Debug\Demo_serialization_xml.pdb
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\obj\Debug\Demo_serialization_xml.Form1.resources
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\obj\Debug\Demo_serialization_xml.Properties.Resources.resources
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\obj\Debug\Demo_serialization_xml.csproj.GenerateResource.cache
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\obj\Debug\Demo_serialization_xml.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\obj\Debug\Demo_serialization_xml.exe
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\obj\Debug\Demo_serialization_xml.pdb
+E:\avelayut\source\repos\Demo_serialization_xml\Demo_serialization_xml\obj\Debug\Demo_serialization_xml.csproj.AssemblyReference.cache
