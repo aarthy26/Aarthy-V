@@ -1,7 +1,0 @@
-E:\avelayut\source\repos\Anonymous_demo\Anonymous_demo\bin\Debug\Anonymous_demo.exe.config
-E:\avelayut\source\repos\Anonymous_demo\Anonymous_demo\bin\Debug\Anonymous_demo.exe
-E:\avelayut\source\repos\Anonymous_demo\Anonymous_demo\bin\Debug\Anonymous_demo.pdb
-E:\avelayut\source\repos\Anonymous_demo\Anonymous_demo\obj\Debug\Anonymous_demo.csproj.CoreCompileInputs.cache
-E:\avelayut\source\repos\Anonymous_demo\Anonymous_demo\obj\Debug\Anonymous_demo.exe
-E:\avelayut\source\repos\Anonymous_demo\Anonymous_demo\obj\Debug\Anonymous_demo.pdb
-E:\avelayut\source\repos\Anonymous_demo\Anonymous_demo\obj\Debug\Anonymous_demo.csproj.AssemblyReference.cache
