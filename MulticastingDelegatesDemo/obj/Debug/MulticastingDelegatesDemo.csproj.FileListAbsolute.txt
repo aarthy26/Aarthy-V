@@ -1,0 +1,7 @@
+E:\avelayut\source\repos\EventsAndDelegates\MulticastingDelegatesDemo\bin\Debug\MulticastingDelegatesDemo.exe.config
+E:\avelayut\source\repos\EventsAndDelegates\MulticastingDelegatesDemo\bin\Debug\MulticastingDelegatesDemo.exe
+E:\avelayut\source\repos\EventsAndDelegates\MulticastingDelegatesDemo\bin\Debug\MulticastingDelegatesDemo.pdb
+E:\avelayut\source\repos\EventsAndDelegates\MulticastingDelegatesDemo\obj\Debug\MulticastingDelegatesDemo.csprojAssemblyReference.cache
+E:\avelayut\source\repos\EventsAndDelegates\MulticastingDelegatesDemo\obj\Debug\MulticastingDelegatesDemo.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\EventsAndDelegates\MulticastingDelegatesDemo\obj\Debug\MulticastingDelegatesDemo.exe
+E:\avelayut\source\repos\EventsAndDelegates\MulticastingDelegatesDemo\obj\Debug\MulticastingDelegatesDemo.pdb
