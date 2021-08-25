@@ -1,0 +1,7 @@
+E:\avelayut\source\repos\Enum_demo\Enum_demo\bin\Debug\Enum_demo.exe.config
+E:\avelayut\source\repos\Enum_demo\Enum_demo\bin\Debug\Enum_demo.exe
+E:\avelayut\source\repos\Enum_demo\Enum_demo\bin\Debug\Enum_demo.pdb
+E:\avelayut\source\repos\Enum_demo\Enum_demo\obj\Debug\Enum_demo.csprojAssemblyReference.cache
+E:\avelayut\source\repos\Enum_demo\Enum_demo\obj\Debug\Enum_demo.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Enum_demo\Enum_demo\obj\Debug\Enum_demo.exe
+E:\avelayut\source\repos\Enum_demo\Enum_demo\obj\Debug\Enum_demo.pdb
