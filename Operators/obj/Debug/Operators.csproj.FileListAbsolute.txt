@@ -1,0 +1,9 @@
+E:\avelayut\source\repos\Operators\Operators\bin\Debug\Operators.exe.config
+E:\avelayut\source\repos\Operators\Operators\bin\Debug\Operators.exe
+E:\avelayut\source\repos\Operators\Operators\bin\Debug\Operators.pdb
+E:\avelayut\source\repos\Operators\Operators\obj\Debug\Operators.Form1.resources
+E:\avelayut\source\repos\Operators\Operators\obj\Debug\Operators.Properties.Resources.resources
+E:\avelayut\source\repos\Operators\Operators\obj\Debug\Operators.csproj.GenerateResource.cache
+E:\avelayut\source\repos\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Operators\Operators\obj\Debug\Operators.exe
+E:\avelayut\source\repos\Operators\Operators\obj\Debug\Operators.pdb
