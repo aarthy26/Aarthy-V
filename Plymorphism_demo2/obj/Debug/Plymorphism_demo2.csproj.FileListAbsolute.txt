@@ -1,0 +1,6 @@
+E:\avelayut\source\repos\Plymorphism_demo2\Plymorphism_demo2\bin\Debug\Plymorphism_demo2.exe.config
+E:\avelayut\source\repos\Plymorphism_demo2\Plymorphism_demo2\bin\Debug\Plymorphism_demo2.exe
+E:\avelayut\source\repos\Plymorphism_demo2\Plymorphism_demo2\bin\Debug\Plymorphism_demo2.pdb
+E:\avelayut\source\repos\Plymorphism_demo2\Plymorphism_demo2\obj\Debug\Plymorphism_demo2.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Plymorphism_demo2\Plymorphism_demo2\obj\Debug\Plymorphism_demo2.exe
+E:\avelayut\source\repos\Plymorphism_demo2\Plymorphism_demo2\obj\Debug\Plymorphism_demo2.pdb
