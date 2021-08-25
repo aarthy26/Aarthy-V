@@ -1,0 +1,7 @@
+E:\avelayut\source\repos\Interface_demo\Interface_demo\bin\Debug\Interface_demo.exe.config
+E:\avelayut\source\repos\Interface_demo\Interface_demo\bin\Debug\Interface_demo.exe
+E:\avelayut\source\repos\Interface_demo\Interface_demo\bin\Debug\Interface_demo.pdb
+E:\avelayut\source\repos\Interface_demo\Interface_demo\obj\Debug\Interface_demo.csprojAssemblyReference.cache
+E:\avelayut\source\repos\Interface_demo\Interface_demo\obj\Debug\Interface_demo.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Interface_demo\Interface_demo\obj\Debug\Interface_demo.exe
+E:\avelayut\source\repos\Interface_demo\Interface_demo\obj\Debug\Interface_demo.pdb
