@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LambdaExpression
+namespace Anonymous_demo
 {
     public delegate string delegateGreeting(string Name);
     class Program
@@ -13,11 +13,10 @@ namespace LambdaExpression
         //{
         //    return "Hello"  +  Name   +  "Good morning";
         //}
-
         static void Main(string[] args)
         {
             // delegateGreeting obj = new delegateGreeting(Greeting);
-            delegateGreeting obj =  (Name)=>    ///LambdaExpression
+            delegateGreeting obj = delegate (string Name)    ///Anonymous method
             {
                 return "Hello" + Name + "Good morning";
             };
