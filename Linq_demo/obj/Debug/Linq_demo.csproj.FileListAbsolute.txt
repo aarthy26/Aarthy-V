@@ -1,0 +1,6 @@
+E:\avelayut\source\repos\Linq_demo\Linq_demo\bin\Debug\Linq_demo.exe.config
+E:\avelayut\source\repos\Linq_demo\Linq_demo\bin\Debug\Linq_demo.exe
+E:\avelayut\source\repos\Linq_demo\Linq_demo\bin\Debug\Linq_demo.pdb
+E:\avelayut\source\repos\Linq_demo\Linq_demo\obj\Debug\Linq_demo.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Linq_demo\Linq_demo\obj\Debug\Linq_demo.exe
+E:\avelayut\source\repos\Linq_demo\Linq_demo\obj\Debug\Linq_demo.pdb
