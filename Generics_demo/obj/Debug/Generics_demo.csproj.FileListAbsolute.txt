@@ -1,0 +1,7 @@
+E:\avelayut\source\repos\Generics_demo\Generics_demo\bin\Debug\Generics_demo.exe.config
+E:\avelayut\source\repos\Generics_demo\Generics_demo\bin\Debug\Generics_demo.exe
+E:\avelayut\source\repos\Generics_demo\Generics_demo\bin\Debug\Generics_demo.pdb
+E:\avelayut\source\repos\Generics_demo\Generics_demo\obj\Debug\Generics_demo.csprojAssemblyReference.cache
+E:\avelayut\source\repos\Generics_demo\Generics_demo\obj\Debug\Generics_demo.csproj.CoreCompileInputs.cache
+E:\avelayut\source\repos\Generics_demo\Generics_demo\obj\Debug\Generics_demo.exe
+E:\avelayut\source\repos\Generics_demo\Generics_demo\obj\Debug\Generics_demo.pdb
