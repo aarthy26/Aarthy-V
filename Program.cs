@@ -1,22 +1,29 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace AnonymousMethod
+namespace LambdaExpression
 {
-    static class Program
+    public delegate string delegateGreeting(string Name);
+    class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        //public static string Greeting(string Name)
+        //{
+        //    return "Hello"  +  Name   +  "Good morning";
+        //}
+
+        static void Main(string[] args)
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            // delegateGreeting obj = new delegateGreeting(Greeting);
+            delegateGreeting obj =  (Name)=>    ///LambdaExpression
+            {
+                return "Hello" + Name + "Good morning";
+            };
+            string str = obj.Invoke("Everyone");
+            Console.WriteLine(str);
+            Console.ReadLine();
         }
     }
 }
